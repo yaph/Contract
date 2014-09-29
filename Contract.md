@@ -126,9 +126,8 @@ priced separately to the scope of The Work.
 
 ## Payment
 
-Being a small and, currently, a fledgling business, cash flow is very important
-to CSS Wizardry. As such, it is asked that You meet the payment terms outlined
-below.
+Being a small business, cash flow is very important to CSS Wizardry. As such, it
+is asked that You meet the payment terms outlined below.
 
 ### Deposit
 
@@ -144,13 +143,6 @@ soon as the deposit is received.
 Once a project is deemed complete, an invoice shall be raised for the remaining
 50% of the project cost, along with any other incidental costs (see _Expenses_).
 The remaining balance shall be paid within 14 days of it being invoiced.
-
-### Late payment
-
-Failure to meet agreed payment terms (primarily, but not limited to, late
-payment) will incur penalty in the form of 10% of the total project cost for
-each calendar week of late payment. This penalty fee shall be paid on top of
-any outstanding invoices.
 
 ### Expenses
 
